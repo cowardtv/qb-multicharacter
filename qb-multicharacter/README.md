@@ -37,7 +37,7 @@ Can also be used with my other reskins
 
 
 ## Features
-- Ability to create up to 4 characters and delete any character.
+- Ability to create up to 2 characters and delete any character.
 - Ability to see character information during selection.
 
 ## Installation
