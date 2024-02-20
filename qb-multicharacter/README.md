@@ -33,7 +33,7 @@ Can also be used with my other reskins
 - [qb-clothing](https://github.com/ST4LTH/qb-clothing)
 
 ## Screenshots
-![Character Selection]([https://cdn.discordapp.com/attachments/1080664137270571023/1200536620399591537/image.png?ex=65c689db&is=65b414db&hm=9d7919a2f3a478e7c776e7359dbbf90237defa9428a060a61d184cc252d857e6&](https://media.discordapp.net/attachments/1206318885305847938/1206336831235559424/image.png?ex=65dba3b9&is=65c92eb9&hm=a0d38c86e8c69e5d959c701d35ea8faad24b55434aca06fcce7e92b98caa3748&=&format=webp&quality=lossless&width=1052&height=592))
+![Character Selection]([https://media.discordapp.net/attachments/1206318885305847938/1206336831235559424/image.png))
 
 
 ## Features
